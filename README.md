@@ -19,6 +19,5 @@ O dashboard conta com três gráficos principais:
 Além disso, no topo do dashboard são apresentados cartões de **KPIs** que permitem rápida análise de performance.
 
 ## 🗂️ Estrutura do Repositório
-- `Dashboard_vendas_xbox.xlsx` → Arquivo Excel com o dashboard concluído.  
-- `README.md` → Documentação do projeto.  
-
+- `README.md` → Documentação do projeto.
+- `Dashboard_vendas_xbox.xlsx` → Arquivo Excel com o dashboard concluído.    
